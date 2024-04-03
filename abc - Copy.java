@@ -3,6 +3,6 @@ public class abc{
 	string b;
 
     public void xy(){
-            system.out.println("123456");
+            system.out.println("Mayur");
     }	
 }
